@@ -1,0 +1,9 @@
+.main {
+    display: flex;
+}
+
+.courses-container {
+    width: 75%;
+    border-right: 1px solid gray;
+    margin-top: 20px;
+}
